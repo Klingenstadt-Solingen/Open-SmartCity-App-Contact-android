@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- CONTACT RELATED STRINGS [!need override!] -->
+    <string name="contact_title"/>
+    <string name="contact_explain_text"/>
+    <string name="contact_success_message"/>
+    <string name="contact_failure_message"/>
+</resources>
